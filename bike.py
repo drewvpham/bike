@@ -29,4 +29,5 @@ bike2=Bike(300, "1mph")
 bike3=Bike(5000000, "2mph")
 
 bike1.ride(3).reverse(1).displayInfo()
+
 bike2.ride(2).reverse(2).displayInfo()
